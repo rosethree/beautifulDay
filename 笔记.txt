@@ -1,0 +1,143 @@
+==========
+2016-8-23
+==========
+标签
+	   
+双标签
+	h1-h6	p   div  
+	a
+		href
+		title
+单标签
+	img
+		src
+		width
+		height
+		border
+		title
+		alt
+	br
+样式
+	width
+	height
+	background
+	border
+		top
+		left
+		bottom
+		right
+		width	style	color
+					solid
+					dashed
+					dotted
+	line-height		
+	text-align
+	color
+		英文		yellow blue.......
+		十六进制	#fff #000 #f00 #f18d05
+		rgb			rgb(0-255,0-255,0-255)
+
+-----------------------------------------
+ps的操作
+
+		放大	ctrl ++++
+		缩小	ctrl ----
+		alt		鼠标滚轮
+		ctrl + c	复制
+		ctrl + n	新建
+		ctrl + v	粘贴
+		ctrl + s 	保存
+		F8			查看信息
+		m			选框工具
+		按住空格键同时鼠标别松手			修改选区
+
+		后写的样式会覆盖
+	路径
+		相对路径
+		绝对路径
+		windows
+			/\  都可以
+		linux
+			/
+		**********统一都用/
+
+	background
+			color	背景颜色
+			image	背景图片
+				url(路径)
+			repeat	背景平铺
+				no-repeat	repeat-x	repeat-y
+
+			position	背景定位
+				数字 	(x,y)
+				英文	left right	top	bottom	center
+
+	xhtml规范
+
+	页面必须有文档头
+	img必须有alt
+	双标签必须闭合
+	单标签必须合理闭合
+	标签名和标签的属性必须小写
+	符号必须用英文符号
+
+	charset		字符集
+			Utf-8		国际编码
+			gb2312/gbk	中国编码
+	author		作者
+	copyright	版权
+	description	网站介绍
+	keywords	关键词
+
+	document	type	html
+	文档			类型	html 
+
+	html4.01
+			过渡
+			严格
+			1.0
+				过渡
+				严格
+	标签
+		span
+			没有任何样式
+
+		b和strong
+			默认加粗
+		i 	em
+			默认倾斜
+
+	样式
+		font-size	字体大小
+		font-family	字体
+		font-weight	加粗
+				bold加粗
+				normal	不加粗
+		font-style
+				italic	倾斜
+				normal	不倾斜
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
